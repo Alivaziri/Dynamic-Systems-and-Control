@@ -1,0 +1,19 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: Control Theory
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Ali
+    family-names: Vaziri
+    name-suffix: Mr.
+    affiliation: University of Kansas
+    email: alivaziri@ku.edu
+    name-particle: Ali
+repository-code: 'https://github.com/Alivaziri/Dynamic-Systems-and-Control'
+url: 'https://github.com/Alivaziri/Dynamic-Systems-and-Control'
+license: Apache-1.0
