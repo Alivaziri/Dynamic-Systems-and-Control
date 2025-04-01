@@ -3,6 +3,7 @@ This repository contains course materials for "Fundamentals of Modern Control Th
 The textbook is the MIT lectures on Dynamic Systems and Control by Mohammed Dahleh, Munther Dahleh, and George Verghese.
 ## 📚 Citation
 If you use this material, please cite it as follows:
+```bibtex
 @software{vaziri2025control,
   author       = {Ali Vaziri},
   title        = {Control Theory},
